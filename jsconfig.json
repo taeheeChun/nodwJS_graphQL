@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "strict": false,
+        "lib": ["es2019"],
+        "noImplicitAny": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noUncheckedIndexedAccess": true
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
